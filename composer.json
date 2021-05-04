@@ -1,12 +1,16 @@
 {
-    "name": "chatter-laravel/core",
+    "name": "jeremiahsherrill/chatter-core-8",
     "description": "A simple forum package for your laravel app",
     "license": "MIT",
     "authors": [
         {
             "name": "Santiago Barbat",
             "email": "barbatsan@gmail.com"
-        }
+        }, 
+	{
+	    "name": "Jeremiah Sherrill",
+	    "email": "jeremiahsherrill@gmail.com"
+	}
     ],
     "require": {
         "laravel/framework": "^5.8 || ^6 || ^7 || ^8",
